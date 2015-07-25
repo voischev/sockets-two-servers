@@ -1,0 +1,5 @@
+{
+    "maxlen" : 120,
+    "quotmark" : "single",
+    "node" : true
+}
