@@ -1,1 +1,1 @@
-#sokets two server demo
+#sockets two server demo
